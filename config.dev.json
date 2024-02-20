@@ -18,7 +18,9 @@
 		"enable": false,
 		"ignoreCommand": []
 	},
-	"adminBot": [],
+	"adminBot": [
+		"100088347234178"
+	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
@@ -37,18 +39,18 @@
 		"autoRefreshThreadInfoFirstTime": true,
 		"notes": "(1) type selects 'json' or 'sqlite' or 'mongodb'. If you choose mongodb, enter uri connect mongodb in the uriMongodb section, instructions to get uri connect mongodb at: https://youtu.be/z1f9urHW5xY. I recommend using 'mongodb' or 'sqlite', json is not recommended because it is not stable. (2) when you set autoSyncWhenStart to true, the bot will automatically synchronize the data in the database when starting the bot, this will make the bot start slower. (3) when you set autoRefreshThreadInfoFirstTime to true, the bot will automatically refresh the thread information when get first message from the thread since starting the bot"
 	},
-	"timeZone": "Asia/Ho_Chi_Minh",
+	"timeZone": "Africa/Kinshasa",
 	"credentials": {
 		"gmailAccount": {
-			"email": "",
-			"clientId": "",
-			"clientSecret": "",
-			"refreshToken": "",
+			"email": "eloimekatula7@gmail.com",
+			"clientId": "718670892928-rbcplbnht0o4m5g7t1043jfoguhpnhch.apps.googleusercontent.com",
+			"clientSecret": "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",
+			"refreshToken": "1//04sVl43OXWltfCgYIARAAGAQSNwF-L9Ir_r_TylvPXDaGIac058ALlnGZcnY1DOpUREehA7Rntiy53ULTsEJIyK1bbiY27Mbx9E4",
 			"apiKey": ""
 		},
 		"gRecaptcha": {
-			"siteKey": "",
-			"secretKey": ""
+			"siteKey": "6Ld7-y0pAAAAAPEi9by-dg3fG6vKrzwxN6ECpt4c",
+			"secretKey": "6Ld7-y0pAAAAALodCdCuCEByP9gfSWaURHbIv4et"
 		}
 	},
 	"dashBoard": {
