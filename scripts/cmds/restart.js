@@ -4,7 +4,7 @@ module.exports = {
 	config: {
 		name: "restart",
 		version: "1.0",
-		author: "NTKhang",
+		author: "NTKhang", // edited by Elohime hatake
 		countDown: 5,
 		role: 2,
 		shortDescription: {
@@ -27,7 +27,7 @@ module.exports = {
 			restartting: "🔄 | Đang khởi động lại bot..."
 		},
 		en: {
-			restartting: "🔄 | Restarting bot..."
+			restartting: "🔄 | 𝐫𝐞𝐬𝐭𝐚𝐫𝐭𝐢𝐧𝐠 𝐛𝐨𝐭🥲"
 		}
 	},
 
@@ -35,7 +35,7 @@ module.exports = {
 		const pathFile = `${__dirname}/tmp/restart.txt`;
 		if (fs.existsSync(pathFile)) {
 			const [tid, time] = fs.readFileSync(pathFile, "utf-8").split(" ");
-			api.sendMessage(`✅ | Bot restarted\n⏰ | Time: ${(Date.now() - time) / 1000}s`, tid);
+			api.sendMessage(`✅ | 𝐛𝐨𝐭 𝐫𝐞𝐬𝐭𝐚𝐫𝐭𝐞𝐝\n⏰ | 𝐭𝐢𝐦𝐞: ${(Date.now() - time) / 1000}s🫠`, tid);
 			fs.unlinkSync(pathFile);
 		}
 	},
