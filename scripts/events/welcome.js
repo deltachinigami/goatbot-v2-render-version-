@@ -6,7 +6,7 @@ module.exports = {
 	config: {
 		name: "welcome",
 		version: "1.7",
-		author: "NTKhang",
+		author: "NTKhang",//edited by Elohime Hatake
 		category: "events"
 	},
 
@@ -130,3 +130,4 @@ module.exports = {
 			};
 	}
 };
+				
