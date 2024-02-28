@@ -3,7 +3,7 @@ module.exports = {
 		name: "balance",
 		aliases: ["bal"],
 		version: "1.1",
-		author: "NTKhang",
+		author: "NTKhang",// edited by Elohime Hatake
 		countDown: 5,
 		role: 0,
 		shortDescription: {
@@ -29,7 +29,7 @@ module.exports = {
 			moneyOf: "%1 đang có %2$"
 		},
 		en: {
-			money: "You have %1$",
+			money: "𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 %1$",
 			moneyOf: "%1 has %2$"
 		}
 	},
