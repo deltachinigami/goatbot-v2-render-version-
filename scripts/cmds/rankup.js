@@ -6,7 +6,7 @@ module.exports = {
 	config: {
 		name: "rankup",
 		version: "1.2",
-		author: "NTKhang",
+		author: "NTKhang", // edited by Elohime hatake
 		countDown: 5,
 		role: 0,
 		shortDescription: {
@@ -34,10 +34,10 @@ module.exports = {
 			notiMessage: "🎉🎉 chúc mừng bạn đạt level %1"
 		},
 		en: {
-			syntaxError: "Syntax error, only use {pn} on or {pn} off",
-			turnedOn: "Turned on level up notification",
-			turnedOff: "Turned off level up notification",
-			notiMessage: "🎉🎉 Congratulations on reaching level %1"
+			syntaxError: "𝐬𝐲𝐧𝐭𝐚𝐱 𝐞𝐫𝐫𝐨𝐫, 𝐨𝐧𝐥𝐲 𝐮𝐬𝐞 {pn} 𝐨𝐧 𝐨𝐫 {pn} 𝐨𝐟𝐟",
+			turnedOn: "✅| 𝐭𝐮𝐫𝐧𝐞𝐝 𝐨𝐧 𝐥𝐞𝐯𝐞𝐥 𝐮𝐩 𝐧𝐨𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧",
+			turnedOff: "❎| 𝐭𝐮𝐫𝐧𝐞𝐝 𝐨𝐟𝐟 𝐥𝐞𝐯𝐞𝐥 𝐮𝐩 𝐧𝐨𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐢𝐨𝐧",
+			notiMessage: " 𝐦𝐨𝐧 𝐦𝐚î𝐭𝐫𝐞 𝐞𝐥𝐨𝐡𝐢𝐦𝐞 𝐭𝐞 𝐝𝐢𝐬 𝐟𝐞𝐥𝐢𝐜𝐢𝐭𝐚𝐭𝐢𝐨𝐧 🎊🎉, 𝐭'𝐞𝐬 𝐩𝐚𝐬𝐬é 𝐚𝐮 𝐧𝐢𝐯𝐞𝐚𝐮 %1"
 		}
 	},
 
