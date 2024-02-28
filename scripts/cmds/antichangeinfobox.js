@@ -4,7 +4,7 @@ module.exports = {
 	config: {
 		name: "antichangeinfobox",
 		version: "1.8",
-		author: "NTKhang",
+		author: "NTKhang",// edited by Elohime Hatake
 		countDown: 5,
 		role: 0,
 		shortDescription: {
@@ -51,23 +51,23 @@ module.exports = {
 			antiChangeEmojiAlreadyOn: "Hiện tại box chat của bạn đang bật chức năng cấm thành viên đổi emoji"
 		},
 		en: {
-			antiChangeAvatarOn: "Turn on anti change avatar box chat",
-			antiChangeAvatarOff: "Turn off anti change avatar box chat",
-			missingAvt: "You have not set avatar for box chat",
-			antiChangeNameOn: "Turn on anti change name box chat",
-			antiChangeNameOff: "Turn off anti change name box chat",
-			antiChangeNicknameOn: "Turn on anti change nickname box chat",
-			antiChangeNicknameOff: "Turn off anti change nickname box chat",
-			antiChangeThemeOn: "Turn on anti change theme box chat",
-			antiChangeThemeOff: "Turn off anti change theme box chat",
-			antiChangeEmojiOn: "Turn on anti change emoji box chat",
-			antiChangeEmojiOff: "Turn off anti change emoji box chat",
-			antiChangeAvatarAlreadyOn: "Your box chat is currently on anti change avatar",
-			antiChangeAvatarAlreadyOnButMissingAvt: "Your box chat is currently on anti change avatar but your box chat has not set avatar",
-			antiChangeNameAlreadyOn: "Your box chat is currently on anti change name",
-			antiChangeNicknameAlreadyOn: "Your box chat is currently on anti change nickname",
-			antiChangeThemeAlreadyOn: "Your box chat is currently on anti change theme",
-			antiChangeEmojiAlreadyOn: "Your box chat is currently on anti change emoji"
+			antiChangeAvatarOn: "𝐓𝐮𝐫𝐧 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐀𝐯𝐚𝐭𝐚𝐫 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			antiChangeAvatarOff: "𝐓𝐮𝐫𝐧 𝐎𝐟𝐟 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐀𝐯𝐚𝐭𝐚𝐫 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			missingAvt: "𝐘𝐨𝐮 𝐇𝐚𝐯𝐞 𝐍𝐨𝐭 𝐒𝐞𝐭 𝐀𝐯𝐚𝐭𝐚𝐫 𝐅𝐨𝐫 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			antiChangeNameOn: "𝐓𝐮𝐫𝐧 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐍𝐚𝐦𝐞 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			antiChangeNameOff: "𝐓𝐮𝐫𝐧 𝐎𝐟𝐟 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐍𝐚𝐦𝐞 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			antiChangeNicknameOn: "𝐓𝐮𝐫𝐧 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐍𝐢𝐜𝐤𝐧𝐚𝐦𝐞 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			antiChangeNicknameOff: "𝐓𝐮𝐫𝐧 𝐎𝐟𝐟 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐍𝐢𝐜𝐤𝐧𝐚𝐦𝐞 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			antiChangeThemeOn: "𝐓𝐮𝐫𝐧 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐡𝐞𝐦𝐞 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			antiChangeThemeOff: "𝐓𝐮𝐫𝐧 𝐎𝐟𝐟 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐡𝐞𝐦𝐞 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			antiChangeEmojiOn: "𝐓𝐮𝐫𝐧 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐄𝐦𝐨𝐣𝐢 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			antiChangeEmojiOff: "𝐓𝐮𝐫𝐧 𝐎𝐟𝐟 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐄𝐦𝐨𝐣𝐢 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭",
+			antiChangeAvatarAlreadyOn: "𝐘𝐨𝐮𝐫 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭 𝐈𝐬 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐀𝐯𝐚𝐭𝐚𝐫",
+			antiChangeAvatarAlreadyOnButMissingAvt: "𝐘𝐨𝐮𝐫 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭 𝐈𝐬 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐀𝐯𝐚𝐭𝐚𝐫 𝐁𝐮𝐭 𝐘𝐨𝐮𝐫 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭 𝐇𝐚𝐬 𝐍𝐨𝐭 𝐒𝐞𝐭 𝐀𝐯𝐚𝐭𝐚𝐫",
+			antiChangeNameAlreadyOn: "𝐘𝐨𝐮𝐫 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭 𝐈𝐬 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐍𝐚𝐦𝐞",
+			antiChangeNicknameAlreadyOn: "𝐘𝐨𝐮𝐫 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭 𝐈𝐬 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐍𝐢𝐜𝐤𝐧𝐚𝐦𝐞",
+			antiChangeThemeAlreadyOn: "𝐘𝐨𝐮𝐫 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭 𝐈𝐬 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐓𝐡𝐞𝐦𝐞",
+			antiChangeEmojiAlreadyOn: "𝐘𝐨𝐮𝐫 𝐁𝐨𝐱 𝐂𝐡𝐚𝐭 𝐈𝐬 𝐂𝐮𝐫𝐫𝐞𝐧𝐭𝐥𝐲 𝐎𝐧 𝐀𝐧𝐭𝐢 𝐂𝐡𝐚𝐧𝐠𝐞 𝐄𝐦𝐨𝐣𝐢"
 		}
 	},
 
