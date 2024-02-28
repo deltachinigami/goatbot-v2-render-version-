@@ -35,7 +35,7 @@ module.exports = {
 			updateTooFast: "Vì bản cập nhật gần nhất được thực phát hành cách đây %1 phút %2 giây nên không thể cập nhật. Vui lòng thử lại sau %3 phút %4 giây nữa để cập nhật không bị lỗi."
 		},
 		en: {
-			noUpdates: "You are using the latest version of GoatBot V2 (v%1).",
+			noUpdates: "You are using the latest version of EloBot😼 V2 (v%1).",
 			updatePrompt: "You are using version %1. There is a new version %2. Do you want to update the chatbot to the latest version?\n\nThe following files will be updated:\n%3%4\n\nSee details at https://github.com/ntkhang03/Goat-Bot-V2/commits/main\nReact to this message to confirm.",
 			fileWillDelete: "\nThe following files/folders will be deleted:\n%1",
 			andMore: " - ...and %1 more files",
@@ -131,4 +131,5 @@ function compareVersion(version1, version2) {
 			return -1;
 	}
 	return 0;
-}
+			}
+	
