@@ -19,7 +19,8 @@
     },
     {
         "key": "sb",
-        "value": "1a7oZsrKzW_zL0duboxW6Faj",ain": "facebook.com",
+        "value": "1a7oZsrKzW_zL0duboxW6Faj",
+        "domain": "facebook.com",
         "path": "/",
         "hostOnly": false,
         "creation": "2024-09-23T20:42:01.748Z",
